@@ -8,4 +8,4 @@ services:
     startCommand: python bot.py
     envVars:
       - key: BOT_TOKEN
-        value: "YOUR_BOT_TOKEN_HERE"   # Replace with your actual BotFather token
+        value: "8551174998:AAHr-tS5oHSii--ATnL7NS9Y881C5TZtZuw"   # Replace with your actual BotFather token
